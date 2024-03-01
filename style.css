@@ -175,3 +175,8 @@ body{
     padding-bottom: 30px;
     gap: 20px;
 }
+
+.icons{
+    display: flex;
+    gap: 60px;
+}
